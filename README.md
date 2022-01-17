@@ -1,8 +1,7 @@
-https://i.ibb.co/nkjy6Kf/programmers-of-tomorrow-facebook-cover-1484111256.jpg
+![Junior MERN Stack Developer.](https://i.ibb.co/nkjy6Kf/programmers-of-tomorrow-facebook-cover-1484111256.jpg)
 
 ### Hi there 👋, I'm Sheikh Sadi
 #### Junior MERN Stack Developer.
-![Junior MERN Stack Developer.]
 
 I'm a front-end web developer passionate about making websites that increase traffic.
 
